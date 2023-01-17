@@ -11,3 +11,5 @@ Here you can easyly find the desired solution.
 3. [**Data and Authentication - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Data%20and%20Authentication%20-%20Exercise)
 4. [**Single Page Application - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Single%20Page%20Applications%20-%20Exercise)
 5. [**Architecture and Testing - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Architecture%20and%20Testing%20-%20Exercise)
+6. [**Client Side Rendering - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Client%20Side%20Rendering%20-%20Exercise)
+7. [**Routing - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Routing%20-%20Exercise)
