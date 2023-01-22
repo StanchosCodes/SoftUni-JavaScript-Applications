@@ -14,3 +14,4 @@ Here you can easyly find the desired solution.
 6. [**Client Side Rendering - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Client%20Side%20Rendering%20-%20Exercise)
 7. [**Routing - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Routing%20-%20Exercise)
 8. [**Exam Preparation**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Exam%20Prepreation%201)
+9. [**Exam 03.12.2022**](https://github.com/StanchosCodes/SoftUni-JavaScript-Applications/tree/main/Exam%2003.12.2022)
